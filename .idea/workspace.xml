@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7321e7f-ec81-4554-bdbf-7fcd50e0f67a" name="Default Changelist" comment="index and style">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lessons" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="nazlev" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="lessons2" />
+  </component>
+  <component name="ProjectId" id="1eaPhxavE69bgGIOdpUyqKLnLL0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7321e7f-ec81-4554-bdbf-7fcd50e0f67a" name="Default Changelist" comment="" />
+      <created>1594556854277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594556854277</updated>
+      <workItem from="1594556857572" duration="822000" />
+      <workItem from="1594633022272" duration="25787000" />
+      <workItem from="1594719794346" duration="14156000" />
+      <workItem from="1595687020177" duration="13771000" />
+      <workItem from="1595946409247" duration="12725000" />
+      <workItem from="1596208050302" duration="7423000" />
+    </task>
+    <task id="LOCAL-00001" summary="index and style">
+      <created>1596208770745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596208770745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="index and style" />
+    <option name="LAST_COMMIT_MESSAGE" value="index and style" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596223409778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596223409778" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1596216979208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1596216979208" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1595694709012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595694709012" />
+    <state x="507" y="266" key="Github.CreateGistDialog" timestamp="1596208543722">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1596208543722" />
+    <state x="486" y="231" key="Github.CreatePullRequestDialog" timestamp="1596209082993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="486" y="231" key="Github.CreatePullRequestDialog/0.0.1366.728@0.0.1366.728" timestamp="1596209082993" />
+    <state x="551" y="262" key="Github.ShareDialog" timestamp="1596216870910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="551" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596216870910" />
+    <state x="457" y="69" key="Github.UntrackedFilesDialog" timestamp="1596208528087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596208528087" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596217186839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596217186839" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1594636086356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594636086356" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1595927125640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595927125640" />
+  </component>
+</project>
