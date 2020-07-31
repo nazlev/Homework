@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7321e7f-ec81-4554-bdbf-7fcd50e0f67a" name="Default Changelist" comment="index and style">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/name.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <workItem from="1594719794346" duration="14156000" />
       <workItem from="1595687020177" duration="13771000" />
       <workItem from="1595946409247" duration="12725000" />
-      <workItem from="1596208050302" duration="8706000" />
+      <workItem from="1596208050302" duration="9270000" />
     </task>
     <task id="LOCAL-00001" summary="index and style">
       <created>1596208770745</created>
@@ -86,6 +86,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="index and style" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="568" y="227" key="#Notifications" timestamp="1596225764137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="227" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1596225764137" />
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596223409778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,10 +118,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="457" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596208528087" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596224685631">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596225744422">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596224685631" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596225744422" />
     <state x="339" y="164" key="run.anything.popup" timestamp="1594636086356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
